@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PuriApps2</string>
+    <string name="my_id">Id: 152-15-4883</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="mama1">Mama1</string>
+    <string name="mama2">Mama2</string>
+    <string name="mama3">Mama3</string>
+    <string name="Next">Next</string>
+    <string name="oredr_details">Oreder Details:</string>
+    <string name="confirm">Confirm</string>
+</resources>
